@@ -1,0 +1,14 @@
+*.swp
+**/__pycache__/**
+.idea/*
+ckpt/
+*.pth
+*.log
+*.txt
+_media/
+out/
+out2/
+SparseConvNet/
+wandb/
+
+
