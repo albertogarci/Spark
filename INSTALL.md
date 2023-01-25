@@ -1,5 +1,8 @@
 ## Installation
 
+
+https://bolete-static.s3.eu-central-1.amazonaws.com/australia.zip
+
 1. Prepare a python environment, e.g.:
 ```shell script
 $ conda create -n spark python=3.8 -y
